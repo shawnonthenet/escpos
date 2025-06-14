@@ -22,7 +22,7 @@ defmodule Escpos.MixProject do
   defp deps do
     [
       {:pixels, "~> 0.0"},
-      {:libusb, github: "arjan/elixir_libusb"}
+      {:libusb, github: "shawnonthenet/elixir_libusb"}
     ]
   end
 end

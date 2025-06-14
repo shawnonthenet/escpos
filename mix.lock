@@ -1,5 +1,5 @@
 %{
-  "elixir_make": {:hex, :elixir_make, "0.6.0", "38349f3e29aff4864352084fc736fa7fa0f2995a819a737554f7ebd28b85aaab", [:mix], [], "hexpm"},
-  "libusb": {:git, "https://github.com/arjan/elixir_libusb.git", "fb6342b6f6179f316cf92c3710d239c37119f72a", []},
-  "pixels": {:hex, :pixels, "0.2.1", "fef581b455d95aaabeccf56d78aee4bfb9146837e4be8b3d0ec71ca4fe1175d0", [:make, :mix], [{:elixir_make, "~> 0.6.0", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm"},
+  "elixir_make": {:hex, :elixir_make, "0.6.0", "38349f3e29aff4864352084fc736fa7fa0f2995a819a737554f7ebd28b85aaab", [:mix], [], "hexpm", "d522695b93b7f0b4c0fcb2dfe73a6b905b1c301226a5a55cb42e5b14d509e050"},
+  "libusb": {:git, "https://github.com/shawnonthenet/elixir_libusb.git", "3894fd72dd5f8ab0a3af8e8a07d40ac0ac16318a", []},
+  "pixels": {:hex, :pixels, "0.2.1", "fef581b455d95aaabeccf56d78aee4bfb9146837e4be8b3d0ec71ca4fe1175d0", [:make, :mix], [{:elixir_make, "~> 0.6.0", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm", "b50c267db57933170e2a31611b9b12b1cc52799ee7dc71400d86980c1d6817fe"},
 }
