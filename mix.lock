@@ -1,5 +1,5 @@
 %{
-  "elixir_make": {:hex, :elixir_make, "0.6.0", "38349f3e29aff4864352084fc736fa7fa0f2995a819a737554f7ebd28b85aaab", [:mix], [], "hexpm", "d522695b93b7f0b4c0fcb2dfe73a6b905b1c301226a5a55cb42e5b14d509e050"},
+  "elixir_make": {:hex, :elixir_make, "0.9.0", "6484b3cd8c0cee58f09f05ecaf1a140a8c97670671a6a0e7ab4dc326c3109726", [:mix], [], "hexpm", "db23d4fd8b757462ad02f8aa73431a426fe6671c80b200d9710caf3d1dd0ffdb"},
   "libusb": {:git, "https://github.com/shawnonthenet/elixir_libusb.git", "3894fd72dd5f8ab0a3af8e8a07d40ac0ac16318a", []},
-  "pixels": {:hex, :pixels, "0.2.1", "fef581b455d95aaabeccf56d78aee4bfb9146837e4be8b3d0ec71ca4fe1175d0", [:make, :mix], [{:elixir_make, "~> 0.6.0", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm", "b50c267db57933170e2a31611b9b12b1cc52799ee7dc71400d86980c1d6817fe"},
+  "pixels": {:git, "https://github.com/shawnonthenet/pixels.git", "ebef42994df044f4ce12251c6bf90dfb3bd56039", []},
 }

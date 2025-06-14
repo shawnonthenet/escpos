@@ -21,7 +21,7 @@ defmodule Escpos.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:pixels, "~> 0.0"},
+      {:pixels, github: "shawnonthenet/pixels"},
       {:libusb, github: "shawnonthenet/elixir_libusb"}
     ]
   end
